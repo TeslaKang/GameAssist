@@ -1,1 +1,1 @@
-# GameAssist
+# Game Assist
