@@ -1,2 +1,2 @@
-0.8.3
-https://github.com/teslakang/GameAssist/releases/download/0.8.3/GameAssist.zip
+0.8.4
+https://github.com/teslakang/GameAssist/releases/download/0.8.4/GameAssist.zip
